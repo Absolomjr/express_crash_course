@@ -17,6 +17,20 @@
 # Install dependencies
 npm install
 
+## The improvements implemented in this project achieved the following:
+
+Established centralized error management across the application.
+
+Implemented reusable asynchronous error handling utilities.
+
+Introduced object-oriented custom error classes.
+
+Improved API error response consistency.
+
+Implemented detection and handling of unknown routes.
+
+Enhanced application maintainability and scalability.
+
 # Serve on localhost:5000
 npm run dev
 ```
