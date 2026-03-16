@@ -17,6 +17,10 @@
 # Install dependencies
 npm install
 
+# Serve on localhost:5000
+npm run dev
+```
+
 ## The improvements implemented in this project achieved the following:
 
 Established centralized error management across the application.
@@ -31,6 +35,4 @@ Implemented detection and handling of unknown routes.
 
 Enhanced application maintainability and scalability.
 
-# Serve on localhost:5000
-npm run dev
-```
+
